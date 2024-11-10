@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  static:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-11-10T13:11:26.633729+01:00"
+    description: A Helm chart to deploy a simple static website
+    digest: a27899e6e84fc797e5b039ab8d5fc8b56f572b07cf0d3fbcd064bdf1a3f599f2
+    name: static
+    type: application
+    urls:
+    - static-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-10T13:11:26.633326+01:00"
