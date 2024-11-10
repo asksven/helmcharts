@@ -5,3 +5,9 @@
 ```
 helm repo add myrepo https://asksven.github.io/helmcharts
 ```
+
+## Show charts
+
+```
+helm search repo myrepo
+```
